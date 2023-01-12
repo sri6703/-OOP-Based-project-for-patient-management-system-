@@ -1,2 +1,2 @@
-# -OOP-Based-project-for-patient-management-system-
-Purpose is to schedule patient appointments based on timing and available doctors using java
+# OOP-Based-project-for-patient-management-system-
+Patient makes an appointment with the admin and gives details about regarding the health issues and sickness complaints. Admin schedules an appointment with the doctor based on the given information. The appointment contains the doctor name , doctor id ,doctor’s specialization , timing , patient name and complaint. Depending upon the patient’s confirmation of the schedule made appointment schedule is sent to the respective doctor.
